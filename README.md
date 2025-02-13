@@ -1,33 +1,49 @@
-# C# Projects Repository
-A collection of C# projects demonstrating various skills, including Entity Framework Code-First, database management, and console applications.
+Mohamed Khalif - Portfolio Website
 
-## Projects
+Overview
 
-### 🏫 Student Database Console App
-- **Tech Stack:** C#, .NET, Entity Framework, SQL  
-- **Description:** A simple console app that sets up a student database using EF Code-First and inserts student records.  
-- 🔗 [GitHub Repository](#)
+This is a personal portfolio website for Mohamed Khalif, showcasing projects and skills in web development. The site is designed with a bamboo-themed aesthetic and built using HTML, CSS, and JavaScript.
 
-## Skills Gained
-- C# Programming
-- .NET Core Development
-- Entity Framework Code-First
-- SQL Database Integration
-- Version Control with Git & GitHub
+Features
 
-## Getting Started
-To run the projects locally:
-1. Clone this repository
-   ```sh
-   git clone https://github.com/yourusername/csharp-projects.gitLinks to an external site.
+Responsive design
 
+Interactive project sections
 
----
+Smooth hover effects
 
-## **3. Push Updates to GitHub**
-1. **Commit Changes:**
-   ```sh
-   git add .
-   git commit -m "Updated portfolio & README with completed projects"
+Clean and minimal layout
 
-git push origin main
+Technologies Used
+
+HTML
+
+CSS (with animations and transitions)
+
+JavaScript (for interactivity)
+
+Installation & Setup
+
+To run the project locally:
+
+Clone the repository:
+
+Navigate to the project directory:
+
+cd your-repo
+
+Open index.html in a web browser.
+
+Projects Included
+
+Project One - A brief description of this project.
+
+Project Two - A brief description of this project.
+
+Contact
+
+For inquiries or collaborations, reach out via email: mohamed@example.com
+
+License
+
+This project is open-source and available under the MIT License.
